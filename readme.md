@@ -28,8 +28,8 @@ It comes with an AutoHotkey script which launches and hides the PowerShell windo
 
 - When you compile Komga_launcher_Systray.ahk to exe with ahk2exe, use a 64 bits "Base File" compilator to avoid compatibility problems with PowerShell.
 - Komga Watchdog is designed to be simple and lightweight. It consists of two scripts:
- - A PowerShell script that locates the application's path and (re)launches it if it is not running.
- - An AutoHotkey script that starts the PowerShell script seamlessly (without a visible window) and provides a system tray icon to show or hide the PowerShell window.
+   - A PowerShell script that locates the application's path and (re)launches it if it is not running.
+   - An AutoHotkey script that starts the PowerShell script seamlessly (without a visible window) and provides a system tray icon to show or hide the PowerShell window.
 
 ## Thanks:
 
